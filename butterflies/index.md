@@ -7,6 +7,7 @@ tags: poem
 
 # How butterflies got their colour
 
+<pre>
 The Butterflies of Bygone Times
 Were bleak, drab and quite dreary
 Were they ultra-violet, or infra-red?
@@ -48,3 +49,5 @@ See something small
                   glide, fly and flutter
 Think about the colour you like the most
 and remember the tale of how butterflies got their colour.
+</pre>
+![Butterfly](/assets/bf0.jpg)
