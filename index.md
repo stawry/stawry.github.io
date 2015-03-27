@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# Old Man made a choice
+
+![Old Man](/assets/i_chose_muffy.png)
 
 # Giraffester says
 
