@@ -2,7 +2,7 @@
 layout: post
 title:  "theodore bjorn"
 date:   2015-03-30 17:34:16
-categories: random, mashup
+categories: random mashup
 ---
 
 ![Theordore Bjorn](/assets/theodore-bjorn-0-title.png)
